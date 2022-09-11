@@ -3,3 +3,6 @@
 # virtual Env
 venv\
 
+db.sqlite3
+
+blog\migrations
